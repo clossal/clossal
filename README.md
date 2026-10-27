@@ -17,6 +17,13 @@ human review points, and systems that are useful in day-to-day operations.
 
 ## Featured work
 
+### [Evidence-Grounded Research Engine](https://github.com/clossal/evidence-grounded-research-engine)
+
+A local research workspace for permitted PDFs: page-level evidence, cross-source
+analysis, citation validation, insufficient-evidence handling, and reviewable
+research memory. The public repository is source-only and does not redistribute
+publisher documents, model weights, indexes, or private research records.
+
 ### [Customer Support Automation & Human Review](https://github.com/clossal/customer-support-automation-human-review)
 
 A runnable local workflow that classifies sample support records, retrieves FAQ
@@ -41,11 +48,9 @@ workflow state, review queues, audit logging, and local-first prototypes.
 
 ## Ongoing work
 
-I am preparing a public, source-only research-engine demonstration covering
-local RAG, citations, cross-document analysis, and reviewable research memory.
-It is not linked here until the public release is ready. Prototype work on
+The public research engine is available above. Prototype work on
 [Reddit GTM research](https://github.com/clossal/reddit-gtm-research) remains
-clearly marked as in progress.
+clearly marked as in progress; it is not presented as a finished agent system.
 
 ## Working together
 
